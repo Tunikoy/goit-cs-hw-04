@@ -1,0 +1,2 @@
+This is an example text. It contains the keyword "example".
+Another line with the keyword "keyword" in it.
